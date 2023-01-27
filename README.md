@@ -1,2 +1,2 @@
 # Product_Preview_Card
-Basicle what the title says...Enjoy!
+basically what the title says...Enjoy!
