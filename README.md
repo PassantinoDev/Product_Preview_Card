@@ -156,7 +156,7 @@ button:hover{
     <div class="container">
       <div class="card-container">
         <div class="header">
-          <img src="Img/image-product-desktop.jpg">
+          <img src="image-product-desktop.jpg">
         <div class="UI-DIV">
       <div class="user-interfaz">
         <h4>P E R F U M E</h4>
