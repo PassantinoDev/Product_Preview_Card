@@ -18,6 +18,7 @@ Screenshot
 
 
 Links
+
 Solution URL
 Live Site URL
 My process
@@ -25,7 +26,5 @@ Built with
 Semantic HTML5 markup
 CSS custom properties
 CSS Grid
-Mobile-first workflow
 Author
-Website - Bekar Shekiladze
-Frontend Mentor - @beqarion
+Frontend Mentor - @PassantinoDev
